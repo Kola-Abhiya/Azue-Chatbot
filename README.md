@@ -1,0 +1,1 @@
+Azure Chatbot, also known as Azure Bot Service, is a cloud-based service provided by Microsoft Azure that allows developers to create, manage, and deploy chatbots. These chatbots can interact with users on various platforms such as websites, mobile apps, social media, and messaging applications. Here are some key features and components of Azure Bot Service
